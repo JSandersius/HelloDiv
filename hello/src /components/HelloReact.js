@@ -1,5 +1,12 @@
+// import React from "react";
+
+// const HelloReact = () => <p>Hello World!</p>;
+
+// export default HelloReact;
+
 import React from "react";
+import HelloDiv from "./componentHelloDiv";
 
-const HelloReact = () => <p>Hello World!</p>;
+const App = () => <HelloDiv/>;
 
-export default HelloReact;
+export default App;
