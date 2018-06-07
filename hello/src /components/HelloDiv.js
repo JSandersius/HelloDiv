@@ -6,6 +6,6 @@
 
 import React from "react";
 
-const HelloReact = () => <p>Hello World!</p>;
+const HelloDiv = () => <p>Hello World!</p>;
 
-export default HelloReact;
+export default HelloDiv;

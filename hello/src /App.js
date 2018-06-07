@@ -5,7 +5,7 @@
 // app.js will be the single wrapping component for whole app
 
 import React from "react";
-import HelloReact from "./components/HelloDiv";
+import HelloDiv from "./components/HelloDiv";
 
 const App = () => <HelloDiv />;
 
