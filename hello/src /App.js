@@ -7,8 +7,7 @@
 import React from "react";
 import HelloReact from "./components/HelloDiv";
 
-const App = () => <HelloDiv
- />;
+const App = () => <HelloDiv />;
 
 export default App;
 
