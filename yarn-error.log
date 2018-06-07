@@ -1,5 +1,5 @@
 Arguments: 
-  /usr/local/bin/node /usr/local/bin/yarn run
+  /usr/local/bin/node /usr/local/bin/yarn start
 
 PATH: 
   /usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin
