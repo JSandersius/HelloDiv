@@ -7,9 +7,6 @@ ReactDOM.render(<App />, document.getElementById("root"));
 // id root can be found in index.html
 
 
-
-
-
 //import is jsx syntax, similar to require 
 
 //q
