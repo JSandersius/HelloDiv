@@ -3,9 +3,8 @@ import ReactDOM from "react-dom";
 import App from "./App";
 
 ReactDOM.render(<App />, document.getElementById("root"));
-
-
-
+//what this does is it renders the app component which is imported from app.js to the element with id root
+// id root can be found in index.html
 
 
 
